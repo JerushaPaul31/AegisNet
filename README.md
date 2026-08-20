@@ -8,7 +8,6 @@ Threats such as IMSI catchers and SMS blasters can exploit mobile communication 
 
 Once connected, users may be exposed to malicious activity such as interception attempts and large-scale phishing or
 scam SMS campaigns.
-
 Because these attacks occur at the network level, they can potentially affect multiple users within the same geographic area.
 
 ## Our Solution 
